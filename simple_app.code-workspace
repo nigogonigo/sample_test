@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../django_virtual/simple_app"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

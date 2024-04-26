@@ -1,7 +1,7 @@
 import csv
 
 
-def read_csv(file):
+def compare_csv(file):
     with open(file) as f:
         rows = csv.reader(f)
         csv_header = next(rows)
@@ -9,5 +9,5 @@ def read_csv(file):
             print(row[0])
 
 
-csv_file = "./csv/list.csv"
-read_csv(csv_file)
+list_file = "./csv/list.csv"
+compare_csv(list_file)

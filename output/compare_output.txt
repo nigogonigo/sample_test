@@ -1,0 +1,3 @@
+target_listと同じorder_idを持つlistは2である
+targetと同じorder_idを持つlistのuser_idは「nskgorisja019djg」である
+targetと同じorder_idを持つlistのuser_idは「kgbdueodnga09821」である

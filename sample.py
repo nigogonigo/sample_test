@@ -3,6 +3,7 @@ import csv
 #list_fileに入れたCSVファイルを対象に、target_fileに入れた文言が含まれるのか検索する。
 #検索にはorder_idを用いる。
 #target_listが含まれていた場合、含まれた件数とuser_idを出力・ログ保存を行う。
+#commit用(2024/4/28)
 
 #TODO：listに対して、ターゲットの内容を検索する処理を追加
 
